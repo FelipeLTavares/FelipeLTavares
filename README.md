@@ -1,4 +1,4 @@
-## Hello dev, I'm Felipe and I develop with JavaScript!
+## Hi dev, I'm Felipe and I develop with JavaScript!
 
 - Constantly learning JS related technologies, mainly Vue.js and React.js
 - I know somethings about databases
