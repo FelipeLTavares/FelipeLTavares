@@ -1,4 +1,4 @@
-##Olá, sou o Felipe Tavares!
+## Olá, sou o Felipe Tavares!
 
 Desenvolvedor Front-end. Formado em Ciências Contábeis, estou migrando para a área tecnologia onde encontrei minha real vocação, utilizando a tecnologia como ferramenta para atender as demandas dos diversos tipos de negócio. Atualmente estudo Análise e Desenvolvimento de Sistemas.
 
