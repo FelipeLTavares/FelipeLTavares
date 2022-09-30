@@ -1,7 +1,8 @@
-## Olá, sou o Felipe e programo com JavaScript!
+##Olá, sou o Felipe Tavares!
 
-- Constantemente aprendendo tecnologias relacionadas a JS, principalmente Vue.js e React.js
-- Sei algumas coisas sobre bancos de dados
+Desenvolvedor Front-end. Formado em Ciências Contábeis, estou migrando para a área tecnologia onde encontrei minha real vocação, utilizando a tecnologia como ferramenta para atender as demandas dos diversos tipos de negócio. Atualmente estudo Análise e Desenvolvimento de Sistemas.
+
+Atuo no desenvolvimentos de sites capazes de gerar valor ao mais variados tipos de organizações, sempre buscando melhorar a cada trabalho realizado.
 
 ### Perfil
 <div align="start">
