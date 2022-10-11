@@ -3,14 +3,6 @@
 Desenvolvedor Front-end. Formado em Ciências Contábeis, estou migrando para a área tecnologia onde encontrei minha real vocação, utilizando a tecnologia como ferramenta para atender as demandas dos diversos tipos de negócio. Atualmente estudo Análise e Desenvolvimento de Sistemas.
 
 Atuo no desenvolvimentos de sites capazes de gerar valor ao mais variados tipos de organizações, sempre buscando melhorar a cada trabalho realizado.
-
-### Perfil
-<div align="start">
-  <a href="https://github.com/FelipeLTavares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeLTavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLTavares&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 ## Meus conhecimentos:
 <div style="display: inline_block"><br>
