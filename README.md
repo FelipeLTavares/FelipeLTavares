@@ -1,4 +1,4 @@
-## Olá, sou o Felipe Tavares!
+# Olá, sou o Felipe Tavares!
 
 Desenvolvedor Front-end. Há algum tempo em conheci o Desenvolvimento Web e vi que era o que queria fazer da vida! Procuro usar a tecnologia como ferramenta para gerar valor e busco melhorar a cada projeto!
   
